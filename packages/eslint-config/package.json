@@ -1,5 +1,6 @@
 {
   "name": "@igniteui-pedrocs378/eslint-config",
+  "version": "1.0.0",
   "private": true,
   "license": "MIT",
   "main": "index.js",

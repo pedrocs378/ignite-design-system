@@ -1,0 +1,2 @@
+import{A as t}from"./index.e9e76028.js";import"./index.87752d9f.js";import"./iframe.905c8d13.js";import"./index.b0a91bda.js";import"./jsx-runtime.0e2b5f2a.js";const p={title:"Data display/Avatar",component:t},m={args:{src:"https://github.com/pedrocs378.png",alt:"Pedro Cesar"}},c={},e=["Primary","WithFallback"];export{m as Primary,c as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.d48021b2.js.map

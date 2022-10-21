@@ -1,11 +1,17 @@
-# Components
+# Ignite UI
 
-- Text
-- Heading
-- Box
-- Button
-- TextInput
-- TextArea
-- Checkbox
-- Avatar
-- Multistep
+Design system desenvolvida no Ignite
+
+## Components
+
+[X] Text
+[X] Heading
+[X] Box
+[X] Button
+[X] TextInput
+[X] TextArea
+[X] Checkbox
+[X] Avatar
+[X] Multistep
+[X] Toast
+[X] Tooltip
